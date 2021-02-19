@@ -1,0 +1,80 @@
+First Session:
+
+What do Companies Look For in an Interviewee?
+    - Research the job
+    - Study their website
+    - Study job description
+    - "Stalk" hiring managers (for talking points)
+    - Show: Drive to learn, think critically, and empathy
+    - Be detail orientated
+    - "I'm not sure at this time, but I'd love to learn. Could you tell me a little more about that?"
+
+What do you take away from that?
+    - Read the job description
+    - Research the company
+    - Prep questions that are tailored to the company
+    - Logistics- spelling, method of interviewing
+    - Keep rambling to a minimum, be personable, show you want to be there
+    - Be detail oriented - Spell checks matter
+    - Professionalism - Read the room
+    - Names matter!
+    - Know the WHY!! Also know how to communicate interviewer
+    - Empathy + excitement to be there
+    -- second pause -- 
+    - Code every day!
+    - Read instructions & understand the problem before you dive in
+    - Speaking technical matters.
+    - Code Challenges!!! And side projects we love
+    - Reflect on your own experiences + projects (Know what you learned) and can talk through your portfolio
+    - Know the WHY
+    - Make sure you have a story for all skills on your resume
+    - Communication-- even for non-technical 
+    - Know why you're choosing the stack you're choosing 
+
+Second Session: 
+
+Why use UPER for interviews?
+    - Getting the optimal answer is just one of the many things an interviewer looks for
+    - They also look for: thought process, testing, spotting bugs, communication skills, coding speed
+    - UPER allows you to demonstrate this interviews 
+    - Helps keep you calm during interviews
+
+    --- Understand 
+        - Really get to know what the problem is asking for 
+        - Create test-cases: You will use this to convince yourself and the interviewer your answer is correct
+        - This step could also help you develop a solution
+    
+    --- Plan
+        - This is usually the part that takes the most time
+        - What patterns have you seen before that you can apply to the problem?
+        - What techniques could I use? What data structures can I use?
+        - Can I find a better solution? What helper methods do I need?
+        - Do NOT proceed to the next step unless you know what you're going to code 
+    
+    --- Execute
+        - Code your Algorithm!
+        - If you prepare properly, this should be the easiest/fastest step
+        - Watch out for bugs
+    
+    --- Review
+        - Give your code a pass through and correct any bugs
+        - Make sure you don't cause regressions when fixing your bugs
+        - Test your code with the test cases you made in the Understand step
+        - State your runtime and space complexity
+
+    --- Binary Search
+        - Halve the search space on each iteration for sorted collections/ranges for O(logn) performance
+        - Take a middle element of the current search space
+            - If that's the target, then you're done 
+            - If it's greater than the target, go left
+            - Else it's less than the target, so go right
+        Things to know 
+            - Very useful for sorted collection (arrays, strings) but also ranges (range of values)
+            - Can be implemented iteratively/recursively
+            - Keyword, sorted, ranges
+            - This should be muscle memory!
+
+
+Interview Prep
+    - Mention projects you're proud of and what you learned from it 
+    
